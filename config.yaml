@@ -37,6 +37,7 @@ params:
       - label: DEV
         url: 'https://dev.to/'
         new_window: true
+  domain: 'https://parallel-dolphin-c57f1.netlify.app'
 taxonomies:
   stub: stub
 disableKinds:
